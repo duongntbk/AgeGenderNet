@@ -4,6 +4,6 @@ Pillow
 tensorflow==1.14.0
 h5py==2.10.0
 imutils==0.5.3
-opencv-contrib-python==4.1.0.25
+opencv-contrib-python==4.1.1.26
 progressbar==2.5
 matplotlib
